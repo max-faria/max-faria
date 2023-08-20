@@ -2,7 +2,7 @@
 
 ## Hey there! 👋
 
-I'm Max, a passionate web designer with a strong ambition to become a front-end developer. I'm excited to showcase my projects, skills, and journey here on GitHub. If you're a recruiter or fellow developer, you've come to the right place!
+I'm Max, a Front-end Developer who is passionate about technology. I'm excited to showcase my projects, skills, and journey here on GitHub. 
 
 ## About Me
 
