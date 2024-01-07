@@ -42,7 +42,7 @@ I believe in continuous learning, and my current focus is on mastering React and
 
 I'm eager to collaborate, learn from others, and contribute to exciting projects. Feel free to reach out to me through email or LinkedIn.
 
-- **Email:** mxxfaria@gmail.com
+- **Email:** mxxfariadev@gmail.com
 - **LinkedIn:**(https://www.linkedin.com/in/maxfariaa/)
 
 Thanks for visiting my GitHub profile! I'm looking forward to creating awesome projects and connecting with the GitHub community. Let's code together! 😄
