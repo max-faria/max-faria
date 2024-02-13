@@ -13,7 +13,7 @@ I have a background in web design and have been honing my skills to transition i
 
 ## 🔧 Technologies & Tools
 
-I'm constantly expanding my toolkit, and currently, I'm proficient in the following technologies:
+I'm constantly expanding my toolkit, and currently, I'm proficient in React and Next.js and have experience with the following technologies:
 
 - HTML5 & CSS3
 - JavaScript (ES6+)
@@ -21,7 +21,6 @@ I'm constantly expanding my toolkit, and currently, I'm proficient in the follow
 - Redux
 - MobX
 - Next.js
-- Vue.js
 - Tailwind CSS
 - Bootstrap
 - Styled Components
