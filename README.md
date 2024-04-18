@@ -8,7 +8,7 @@ I'm Max, a Front-end Developer who is passionate about technology. I'm excited t
 
 I have a background in web design and have been honing my skills to transition into a front-end development role. I'm enthusiastic about creating responsive and visually appealing websites that deliver a seamless user experience.
 
-- **Location:** Bangalore, IN
+- **Location:** Gold Coast, Australia
 - **LinkedIn:** https://www.linkedin.com/in/maxfariaa/
 
 ## 🔧 Technologies & Tools
@@ -31,6 +31,7 @@ I'm constantly expanding my toolkit, and currently, I'm proficient in React and 
 - SQL
 - Sequelize
 - Postman
+- -AWS
 
 ## 🌱 Learning Journey
 
