@@ -2,7 +2,7 @@
 
 ## Hey there! 👋
 
-I'm Max, a Front-end Developer who is passionate about technology. I'm excited to showcase my projects, skills, and journey here on GitHub. 
+I'm Max, a Full Stack Developer who is passionate about technology. I'm excited to showcase my projects, skills, and journey here on GitHub. 
 
 ## About Me
 
@@ -17,7 +17,9 @@ I'm constantly expanding my toolkit, and currently, I'm proficient in React and 
 
 - HTML5 & CSS3
 - JavaScript (ES6+)
+- TypeScript
 - ReactJS
+- Noe.js
 - Redux
 - MobX
 - Next.js
